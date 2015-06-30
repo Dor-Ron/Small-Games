@@ -68,7 +68,7 @@ print "Enter a, b, c, or d for the answer. q to quit.\n"
 print "The goal of the game is to beat your previous score, and learn the words of course. Good Luck!! :D"
 print "+" * 50
 
-for num in xrange(250):
+while True:
     lucky_word = choice(words)
     options = random_definitions(lucky_word)
     print query.format(lucky_word, options[0], options[1], options[2], options[3])
