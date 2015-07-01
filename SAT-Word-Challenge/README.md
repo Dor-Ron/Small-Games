@@ -18,6 +18,7 @@ Instructions
 ============ 
 
 * run <code> git clone https://github.com/Dor-Ron/Small-Games.git </code> 
+* <code> cd </code> into the SAT-Word-Challenge folder.
 * run <code> python game.py </code>
 
 Alternitavely,
