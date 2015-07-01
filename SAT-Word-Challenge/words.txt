@@ -21,8 +21,7 @@ burnish (v.) to polish, shine
 buttress (v.) to support, to hold up
 cacophony (n.) tremendous noise, disharmonious sound 
 cajole (v.) to urge, coax
-calumny (n.) an attempt to spoil someone else’s reputation by spreading
-lies
+calumny (n.) an attempt to spoil someone else’s reputation by spreading lies
 capricious (adj.) subject to whim, fickle
 clemency (n.) mercy
 cogent (adj.) intellectually convincing
@@ -36,7 +35,7 @@ cursory (adj.) brief to the point of being superficial
 decry (v.) to criticize openly
 defile (v.) to make unclean, impure
 deleterious (adj.) harmful
-demure (v.) quiet, modest, reserved
+demure (adj.) quiet, modest, reserved
 deprecate (v.) to belittle, depreciate
 deride (v.) to laugh at mockingly, scorn
 desecrate (v.) to violate the sacredness of a thing or place 
@@ -49,21 +48,21 @@ dither (v.) to be indecisive
 ebullient (adj.) extremely lively, enthusiastic
 effrontery (n.) impudence, nerve, insolence
 effulgent (adj.) radiant, splendorous
-egregious (n.) extremely bad
-enervate (adj.) to weaken, exhaust
+egregious (adj.) extremely bad
+enervate (v.) to weaken, exhaust
 ephemeral (adj.) short-lived, fleeting
 eschew (v.) to shun, avoid
 evanescent (adj.) fleeting, momentary
 evince (v.) to show, reveal
-exculpate (adj.) to free from guilt or blame, exonerate 
-execrable (v.) loathsome, detestable
-exigent (v.) urgent, critical
+exculpate (v.) to free from guilt or blame, exonerate 
+execrable (adj.) loathsome, detestable
+exigent (adj.) urgent, critical
 expiate (adj.) to make amends for, atone
-expunge (adj.) to obliterate, eradicate
+expunge (v.) to obliterate, eradicate
 extant (v.) existing, not destroyed or lost
 extol (v.) to praise, revere
 fallacious (adj.) incorrect, misleading
-fastidious (v.) meticulous, demanding, having high and often unattainable standards 
+fastidious (adj.) meticulous, demanding, having high and often unattainable standards 
 fatuous (adj.) silly, foolish
 fecund (adj.) fruitful, fertile
 feral (adj.) wild, savage
@@ -71,20 +70,20 @@ fetid (adj.) having a foul odor
 florid (adj.) flowery, ornate
 fractious (adj.) troublesome or irritable
 garrulous (adj.) talkative, wordy
-grandiloquence (adj.) lofty, pompous language
+grandiloquence (n.) lofty, pompous language
 gregarious (adj.) drawn to the company of others, sociable 
-hackneyed (n.) unoriginal, trite
+hackneyed (adj.) unoriginal, trite
 hapless (adj.) unlucky
-harangue (adj.) i
-hegemony (adj.) domination over others
+harangue (n.) a ranting speech
+hegemony (n.) domination over others
 iconoclast (n.) one who attacks common beliefs or institutions 
-ignominious (v.) humiliating, disgracing
-impassive (n.) stoic, not susceptible to suffering
-imperious (n.) commanding, domineering
+ignominious (adj.) humiliating, disgracing
+impassive (adj.) stoic, not susceptible to suffering
+imperious (adj.) commanding, domineering
 impertinent (adj.) rude, insolent
 impervious (adj.) impenetrable, incapable of being affected 
 impetuous (adj.) rash; hastily done
-impinge (adj.) i
+impinge (v.)  to impact, affect, make an impression 
 implacable (adj.) incapable of being appeased or mitigated 
 impudent (adj.) casually rude, insolent, impertinent 
 inchoate (v.) unformed or formless, in a beginning stage 
