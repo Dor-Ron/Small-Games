@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
-from random import choice
 from sys import exit
 from re import findall
+import random
 import logging; logging.basicConfig(filename = "scores.log", level = "INFO")
 
 #get results from scraper.py
@@ -34,10 +34,10 @@ def random_definitions(word):
     '''Ensure that one of the options is the correct definition'''
     correct_definition = word_map[word]
     options = []
-    for i in xrange(3):
-        options.append(choice(definitions))
+    for _ in xrange(3):
+        options.append(random.choice(definitions))
     options.append(correct_definition)
-    return sorted(options)
+    return sorted(options)  # to randomize the correct letter.
 
 
 def prompt_user():
@@ -57,7 +57,7 @@ past_scores = findall(r'\d+', scores_file)
 try: 
     high_score = max(past_scores)
 except ValueError: #if past scores is empty
-    pass
+    high_score = 0
 
 #game loop
 wrong = 0
@@ -69,7 +69,7 @@ print "The goal of the game is to beat your previous score, and learn the words 
 print "+" * 50
 
 while True:
-    lucky_word = choice(words)
+    lucky_word = random.choice(words)
     options = random_definitions(lucky_word)
     print query.format(lucky_word, options[0], options[1], options[2], options[3])
     res = prompt_user()
@@ -87,11 +87,10 @@ while True:
         print "\nYou have " + str(3 - wrong) + " tries left.\n"
 
     print "Your score is: {}".format(score)
-    try:
-        print "The score to beat is %s" % high_score
-    except NameError: #if variable doesn't exist yet
-        pass
+    print "The score to beat is %s" % high_score
 
     if wrong == 3:
         logging.info(score)
         break
+
+sat_words.close() #close file from beginning
