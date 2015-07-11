@@ -15,7 +15,7 @@ The **Ultimate Guessing Game** has 4 game modes.
 Possible Expansion
 ==================
 
-*Might add game mode with letters from other languages to make thing even more difficult.
+* Might add game mode with letters from other languages to make thing even more difficult.
 
 
 You have three tries to guess correctly.
