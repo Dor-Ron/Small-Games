@@ -33,9 +33,7 @@ for num in xrange(len(words)):
 def random_definitions(word):
     '''Ensure that one of the options is the correct definition'''
     correct_definition = word_map[word]
-    options = []
-    for _ in xrange(3):
-        options.append(random.choice(definitions))
+    options = [random.choice(definitions) for _ in xrange(3)]
     options.append(correct_definition)
     return sorted(options)  # to randomize the correct letter.
 
@@ -92,5 +90,3 @@ while True:
     if wrong == 3:
         logging.info(score)
         break
-
-sat_words.close() #close file from beginning
