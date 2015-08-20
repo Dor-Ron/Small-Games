@@ -51,4 +51,4 @@ with open('words.txt', 'w') as word_file:
         word_file.write("%s %s %s\n" % (word_list[idx], parts_of_speech[idx], definition_list[idx]))
 
 
-system("cat words.txt") 
+#system("cat words.txt") 
