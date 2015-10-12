@@ -1,8 +1,6 @@
 Small-Games
 ===========
 
-Most of these games are relatively small scale.
-Their functionality is very limited.
-And most likely unless noted otherwise involve almost no graphical element.
-That being said, for the most part they're CLI games.
-Eitherway, give them a try and enjoy.
+Small games I made when I was bored...
+Some are CLI while other's might have a GUI.
+Have fun giving them a try :D
